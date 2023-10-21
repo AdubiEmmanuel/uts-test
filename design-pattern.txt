@@ -1,9 +1,6 @@
 |-- design-pattern.txt
 |-- index.html
-|-- layouts/
-|   |-- navbar.html
-|   |-- footer.html
-|   |-- boxes.html
+|-- css/
+|   |-- main.css
 |-- js/
-|   |-- navItems.js
-|   |-- boxes.js
+|-- img
