@@ -3,4 +3,4 @@
 |-- css/
 |   |-- main.css
 |-- js/
-|-- img
+|-- img.
